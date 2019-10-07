@@ -16,5 +16,5 @@
   <project name="meta-st-stm32mp-addons" path="layers/meta-st/meta-st-stm32mp-addons" revision="fdaf22bdb1d832893be7b9dc74a4bba0a6ea5065"/>
   <project name="meta-st-scripts" path="layers/meta-st/scripts" revision="e1055b0af6c0d7e770ad0d50e18da84771896f11"/>
   <project name="openembedded-core" path="layers/openembedded-core" remote="oe" revision="f0394e80a37f1da47042a1aa0487594f390603f9"/>
-  <project name="vovard/meta-phytec" path="layers/meta-phytec" remote="github" revision="329045d8c75d9adba4b021b9ebed10da8e6ab764"/>
+  <project name="vovard/meta-phytec" path="layers/meta-phytec" remote="github" revision="1065efd6a932cf3633e497f71e164b48a8377511"/>
 </manifest>
